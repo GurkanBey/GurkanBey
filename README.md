@@ -3,7 +3,7 @@
 🎓 Senior Computer Engineering Student @ Mersin University  
 🛡️ Blue Team Intern | Cybersecurity Enthusiast | Active Directory Specialist  
 🔍 Focused on Threat Detection, SOC Operations, and System Hardening  
-💬 Python | C/C++ | Bash | Splunk | Wazuh | Jenkins
+💬 Python | C/C++ | Bash | Splunk | Wazuh 
 
 ## 🚀 What I’m Working On
 - SOC Monitoring & Threat Hunting Projects
