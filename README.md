@@ -17,5 +17,5 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## 📫 Contact Me
-- ✉️ gurkanparlak@example.com  
-- 💼 [LinkedIn](https://linkedin.com/in/...)  
+- ✉️ gurkanparlak7@gmail.com  
+- 💼 [LinkedIn](linkedin.com/in/gürkan-parlak/)  
